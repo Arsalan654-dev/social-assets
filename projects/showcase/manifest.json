@@ -1,0 +1,84 @@
+{
+  "slides": [
+    {
+      "carousel": "a",
+      "index": 0,
+      "file": "D:\\social-studio\\out\\project-showcase\\a\\00-intro.jpg"
+    },
+    {
+      "carousel": "a",
+      "index": 1,
+      "file": "D:\\social-studio\\out\\project-showcase\\a\\01-consultiser-erp.jpg"
+    },
+    {
+      "carousel": "a",
+      "index": 2,
+      "file": "D:\\social-studio\\out\\project-showcase\\a\\02-safeer-call-center.jpg"
+    },
+    {
+      "carousel": "a",
+      "index": 3,
+      "file": "D:\\social-studio\\out\\project-showcase\\a\\03-heritage-jewellers.jpg"
+    },
+    {
+      "carousel": "a",
+      "index": 4,
+      "file": "D:\\social-studio\\out\\project-showcase\\a\\04-luxury-escapes.jpg"
+    },
+    {
+      "carousel": "a",
+      "index": 5,
+      "file": "D:\\social-studio\\out\\project-showcase\\a\\05-seahistorychecks.jpg"
+    },
+    {
+      "carousel": "a",
+      "index": 6,
+      "file": "D:\\social-studio\\out\\project-showcase\\a\\06-us-boat-registry.jpg"
+    },
+    {
+      "carousel": "b",
+      "index": 0,
+      "file": "D:\\social-studio\\out\\project-showcase\\b\\00-intro.jpg"
+    },
+    {
+      "carousel": "b",
+      "index": 1,
+      "file": "D:\\social-studio\\out\\project-showcase\\b\\01-vingo.jpg"
+    },
+    {
+      "carousel": "b",
+      "index": 2,
+      "file": "D:\\social-studio\\out\\project-showcase\\b\\02-ever-after-studio.jpg"
+    },
+    {
+      "carousel": "b",
+      "index": 3,
+      "file": "D:\\social-studio\\out\\project-showcase\\b\\03-threadworks-studio.jpg"
+    },
+    {
+      "carousel": "b",
+      "index": 4,
+      "file": "D:\\social-studio\\out\\project-showcase\\b\\04-bholu-cattle-farm.jpg"
+    },
+    {
+      "carousel": "b",
+      "index": 5,
+      "file": "D:\\social-studio\\out\\project-showcase\\b\\05-hashir-crm.jpg"
+    },
+    {
+      "carousel": "b",
+      "index": 6,
+      "file": "D:\\social-studio\\out\\project-showcase\\b\\06-yourtechhub.jpg"
+    }
+  ],
+  "grids": [
+    {
+      "carousel": "a",
+      "file": "D:\\social-studio\\out\\project-showcase\\facebook-grid-a.jpg"
+    },
+    {
+      "carousel": "b",
+      "file": "D:\\social-studio\\out\\project-showcase\\facebook-grid-b.jpg"
+    }
+  ]
+}
